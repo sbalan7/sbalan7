@@ -1,17 +1,19 @@
 ### Hello there!
 
-I'm Shanmugha Balan. I'm a student at BITS Pilani, Pilani Campus pursuing a masters in physics. I am interested in making boxes of metal think.
+I'm Shanmugha Balan, a student at BITS Pilani, Pilani Campus pursuing a masters in physics. I am interested in making boxes of metal think.
 
 I'm currently working on machine learning and artifical intelligence.
 I'm learning computational biology and scientific computing.
 My preferred languages are C/C++ and python.
 
 Cool stuff:
+
 A computational biology project with graph theory using NetworkX and python - [RSIC - 2018](https://github.com/sbalan7/RSIC-2018)
 
 Some random programs with convolutional neural networks - [ConvNets](https://github.com/sbalan7/ConvNets)
 
 To learn:
+
 Deep Learning from deeplearning.ai on Coursera - [Notes](https://sbalan7.github.io/assets/notes/deeplearning.pdf) | [Jupyter Notebooks](https://github.com/sbalan7/LearningDeepLearning)
 
 Machine Learning with scikit-learn - [Notes](https://sbalan7.github.io/assets/notes/machine_learning.pdf) | [Code](https://github.com/sbalan7/ML-and-Stats)
