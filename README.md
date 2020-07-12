@@ -8,10 +8,12 @@ My preferred languages are C/C++ and python.
 
 Cool stuff:
 A computational biology project with graph theory using NetworkX and python - [RSIC - 2018](https://github.com/sbalan7/RSIC-2018)
+
 Some random programs with convolutional neural networks - [ConvNets](https://github.com/sbalan7/ConvNets)
 
 To learn:
 Deep Learning from deeplearning.ai on Coursera - [Notes](https://sbalan7.github.io/assets/notes/deeplearning.pdf) | [Jupyter Notebooks](https://github.com/sbalan7/LearningDeepLearning)
+
 Machine Learning with scikit-learn - [Notes](https://sbalan7.github.io/assets/notes/machine_learning.pdf) | [Code](https://github.com/sbalan7/ML-and-Stats)
 
 [Personal website](https://sbalan7.github.io/) | [Linkedin](https://www.linkedin.com/in/shanmugha-balan-265741197/) | [Email](mailto:f20190571@pilani.bits-pilani.ac.in)
