@@ -12,6 +12,8 @@ A computational biology project with graph theory using NetworkX and python - [R
 
 Some random programs with convolutional neural networks - [ConvNets](https://github.com/sbalan7/ConvNets)
 
+A traffic sign classifier with a GUI - [Traffic-Sign-Classifier](https://github.com/sbalan7/Traffic-Sign-Classifier)
+
 To learn:
 
 Deep Learning from deeplearning.ai on Coursera - [Notes](https://sbalan7.github.io/assets/notes/deeplearning.pdf) | [Jupyter Notebooks](https://github.com/sbalan7/LearningDeepLearning)
