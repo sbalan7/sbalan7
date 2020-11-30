@@ -3,7 +3,6 @@
 I'm Shanmugha Balan, a student at BITS Pilani, Pilani Campus pursuing a masters in physics. I am interested in making boxes of metal think.
 
 I'm currently working on machine learning and artifical intelligence.
-I'm learning computational biology and scientific computing.
 My preferred languages are C/C++ and python.
 
 Cool stuff:
