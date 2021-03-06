@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm Shanmugha Balan, a student at BITS Pilani, Pilani Campus pursuing a masters in physics. I am interested in making boxes of metal think.
+I'm Shanmugha Balan, a student at BITS Pilani, Pilani Campus dual majoring in physics and electronics. I am interested in making boxes of metal think.
 
 I'm currently working on machine learning and artifical intelligence.
 My preferred languages are C/C++ and python.
@@ -19,7 +19,7 @@ Deep Learning from deeplearning.ai on Coursera - [Notes](https://sbalan7.github.
 
 Machine Learning with scikit-learn - [Notes](https://sbalan7.github.io/assets/notes/machine_learning.pdf) | [Code](https://github.com/sbalan7/ML-and-Stats)
 
-[Personal website](https://sbalan7.github.io/) | [Linkedin](https://www.linkedin.com/in/shanmugha-balan-265741197/) | [Email](mailto:f20190571@pilani.bits-pilani.ac.in)
+[Personal website](https://sbalan7.github.io/) | [Linkedin](https://www.linkedin.com/in/sbalan7/) | [Email](mailto:f20190571@pilani.bits-pilani.ac.in)
 
 <!--
 **sbalan7/sbalan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
