@@ -2,7 +2,7 @@
 
 I'm Shanmugha Balan, a student at BITS Pilani, Pilani Campus dual majoring in physics and electronics. I am interested in making boxes of metal think.
 
-I'm currently working on the border of machine learning and astrophysics. My preferred languages are C/C++ and python. I am an avid blogger and write articles for multiple blogs (majorly at [FreeLunch](http://www.freelunch.co.in/author/shanmugha-balan/), [The Radio Astronomy Club](https://trac-bits-pilani.github.io/blog/))
+I'm currently working on the border of machine learning and astrophysics. My preferred languages are Python and C/C++. I also have some basic knowledge of Front End Web Dev with HTML/CSS/JS, app development with Flutter and DBMS with SQL. I am an avid blogger and write articles for multiple blogs (majorly at [FreeLunch](http://www.freelunch.co.in/author/shanmugha-balan/), [The Radio Astronomy Club](https://trac-bits-pilani.github.io/blog/))
 
 #### To get in touch with me:
 
