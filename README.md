@@ -1,20 +1,16 @@
 ## Hello there!
 
-I'm Shanmugha Balan, a student at BITS Pilani, Pilani Campus dual majoring in physics and electronics. I am interested in making boxes of metal think.
-
-I'm currently working on the border of machine learning and astrophysics. My preferred languages are Python and C/C++. I also have some basic knowledge of Front End Web Dev with HTML/CSS/JS, app development with Flutter and DBMS with SQL. I am an avid blogger and write articles for multiple blogs (majorly at [FreeLunch](http://www.freelunch.co.in/author/shanmugha-balan/), [The Radio Astronomy Club](https://trac-bits-pilani.github.io/blog/))
+I'm Shanmugha Balan, a student at BITS Pilani, Pilani Campus dual majoring in physics and electronics. My primary research areas are solar physics and stellar astrophysics. I also work on signal and image processing, communication systems and radio astronomy.
 
 #### To get in touch with me:
 
-[Personal website](https://sbalan7.github.io/) | [Linkedin](https://www.linkedin.com/in/sbalan7/) | [Email](mailto:f20190571@pilani.bits-pilani.ac.in)
+[Personal website](https://sbalan7.github.io/) | [Email](mailto:f20190571@pilani.bits-pilani.ac.in)
 
 #### Some of my cooler stuff:
 
 A computational biology project with graph theory using NetworkX and python - [RSIC - 2018](https://github.com/sbalan7/RSIC-2018)
 
-Some random programs with convolutional neural networks - [ConvNets](https://github.com/sbalan7/ConvNets)
-
-A traffic sign classifier with a GUI - [Traffic-Sign-Classifier](https://github.com/sbalan7/Traffic-Sign-Classifier)
+An image denoising model I'm building for X Ray images - [X-Ray Denoising](https://github.com/sbalan7/XRayDenoising)
 
 #### To learn:
 
