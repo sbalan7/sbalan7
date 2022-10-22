@@ -22,4 +22,3 @@ Deep Learning from deeplearning.ai on Coursera - [Notes](https://sbalan7.github.
 
 Machine Learning with scikit-learn - [Notes](https://sbalan7.github.io/assets/notes/machine_learning.pdf) | [Code](https://github.com/sbalan7/ML-and-Stats)
 
-[![Balan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbalan7&count_private=true&show_icons=true&theme=cobalt)](https://github.com/sbalan7/github-readme-stats)
