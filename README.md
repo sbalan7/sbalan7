@@ -10,9 +10,9 @@ I'm Shanmugha Balan, a student at BITS Pilani, Pilani Campus dual majoring in ph
 
 A computational biology project with graph theory using NetworkX and python - [RSIC - 2018](https://github.com/sbalan7/RSIC-2018)
 
-An image denoising model I'm building for X Ray images - [X-Ray Denoising](https://github.com/sbalan7/XRayDenoising)
+A frontend to help run the [SIR code](https://github.com/BasilioRuiz/SIR-code) and perform simulation runs with it more easily - [SIR frontend](https://github.com/sbalan7/SIR-frontend)
 
-#### To learn:
+#### Learning Material:
 
 Deep Learning from deeplearning.ai on Coursera - [Notes](https://sbalan7.github.io/assets/notes/deeplearning.pdf) | [Jupyter Notebooks](https://github.com/sbalan7/LearningDeepLearning)
 
